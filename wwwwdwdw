@@ -119,9 +119,7 @@ local themeStyles = {
         TextColor = Color3.fromRGB(255,255,255),
         ElementColor = Color3.fromRGB(22, 29, 31)
     },
-    Custom = {
-    	CustomTheme
-    }
+    Custom
 }
 local oldTheme = ""
 
